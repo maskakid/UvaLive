@@ -4,7 +4,10 @@
 
 
 /*
-    This problem could be solved using Dijkstra or Bellman-Ford algorithm. But this algorithm has to be run backwards ie, from the end location of the journey. It is guaranteed that there is always a solution. Here i used Bellman-Ford algorithm.
+    This problem could be solved using Dijkstra or Bellman-Ford algorithm.
+    But this algorithm has to be run backwards ie, from the end location of the journey.
+    It is guaranteed that there is always a solution.
+    Here i used Bellman-Ford algorithm.
 */
 
 #include<bits/stdc++.h>
