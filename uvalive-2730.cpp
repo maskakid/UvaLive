@@ -8,6 +8,8 @@
     But this algorithm has to be run backwards ie, from the end location of the journey.
     It is guaranteed that there is always a solution.
     Here i used Bellman-Ford algorithm.
+
+    Problem link: https://icpcarchive.ecs.baylor.edu/external/27/p2730.pdf
 */
 
 #include<bits/stdc++.h>
