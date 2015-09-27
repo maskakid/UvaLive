@@ -3,7 +3,7 @@
 
     problem-id  : uvalive-4212(candy)
     problem-link: https://icpcarchive.ecs.baylor.edu/external/42/4212.html
-    problem-type: dp,implementation
+    problem-type: 0/1 knapsack,dp,implementation
 */
 
 #include<bits/stdc++.h>
