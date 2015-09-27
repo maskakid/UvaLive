@@ -1,3 +1,11 @@
+/*
+    Author: Akid (CSE'11,CUET)
+
+    problem-id: : uvalive-3003(jelly)
+    problem-link: https://icpcarchive.ecs.baylor.edu/external/30/3003.html
+    problem-type: Ad-hoc,implementation
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
